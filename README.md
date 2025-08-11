@@ -1,2 +1,4 @@
 # my-friest-reop
-I an a learner
+这是我第一个GitHub仓库
+## 说明介绍
+我想学习github
