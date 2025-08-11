@@ -1,4 +1,4 @@
-# my-friest-reop
+# my-friest-repo
 这是我第一个GitHub仓库
 
 ##  我的目标 
